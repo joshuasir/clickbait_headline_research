@@ -11,4 +11,3 @@ experiment we will mainly focus on one of BERT variant RoBERTa which uses BERT a
 
 The aim of this study is to compare how well each model classify Indonesian clickbait headline which in our knowledge hasn’t been any other comparative study on this topic yet and see which model and method works best.
 
-by Joshua Sirusstara, Neil Alexander
